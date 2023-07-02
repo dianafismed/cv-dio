@@ -17,5 +17,15 @@ li{
 
 a{
   text-decoration: none;
-  margin: 0 10px;
+  margin: 10px;
+}
+
+img{
+  width: 80%;
+  border-radius: 5%;
+}
+
+.barra{
+  background-color: purple;
+  color: whitesmoke;
 }
