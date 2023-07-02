@@ -1,0 +1,19 @@
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+
+i{
+  color: purple;
+}
+
+span{
+  background-color: aqua;
+  color: green;
+}
+
+li{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+  margin: 0 10px;
+}
